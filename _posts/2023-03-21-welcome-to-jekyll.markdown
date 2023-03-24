@@ -17,8 +17,7 @@ Jekyll also offers powerful support for code snippets:
 
 ![image-title-here](/assets/images/time_series.png){: .first-image}
 
-Text on left of image
-{: .current}
+<span class="current">Text on left of image </span>
 
 {% highlight ruby %}
 def print_hi(name)
