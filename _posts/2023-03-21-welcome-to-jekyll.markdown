@@ -18,7 +18,7 @@ Jekyll also offers powerful support for code snippets:
 ![image-title-here](/images/time_series.png){: .first-image}
 
 Text on left of image
-{: .font-size-large .color-red}
+{: .text-lg .text-red-100}
 
 {% highlight ruby %}
 def print_hi(name)
