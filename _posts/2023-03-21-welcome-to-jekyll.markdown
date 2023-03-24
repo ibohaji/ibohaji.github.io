@@ -15,9 +15,9 @@ Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit number
 
 Jekyll also offers powerful support for code snippets:
 
-![image-title-here](/images/time_series.png){:style="float: left"}
+![image-title-here](/images/time_series.png){: .first_image}
 
-Text on left of image
+Text on left of image {: #test}
 
 {% highlight ruby %}
 def print_hi(name)
