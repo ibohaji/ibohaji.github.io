@@ -15,7 +15,9 @@ Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit number
 
 Jekyll also offers powerful support for code snippets:
 
-Text on left ![Time series](/assets/images/time_series.png){: .first-image} of image
+<img style="float: right; width: 500px; height: 400px;" src="/assets/images/time_series.png">
+
+Add description of image here. The description will appear on the left of the image. Change float to left or right to adjust the image position
 
 {% highlight ruby %}
 def print_hi(name)
@@ -26,6 +28,15 @@ print_hi('Tom')
 {% endhighlight %}
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+<embed 
+       type="text/html" 
+       src="/assets/images/Focuscrime.html"
+       width="600"
+       height="600"
+       style="float: left"
+       >
+This is text beside the bokeh. Description of the plot can be written here
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]: https://github.com/jekyll/jekyll
