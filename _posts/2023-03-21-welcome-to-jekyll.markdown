@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome to Jekyll!"
+title: "Assignment 2"
 date: 2023-03-21 09:50:58 +0100
 categories: jekyll update
 ---
@@ -15,7 +15,9 @@ Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit number
 
 Jekyll also offers powerful support for code snippets:
 
-![image-title-here](/images/time_series.png){:class="img-responsive"}
+![image-title-here](/images/time_series.png){:style="float: left"}
+
+Text on left of image
 
 {% highlight ruby %}
 def print_hi(name)
