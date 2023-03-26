@@ -30,9 +30,9 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 <embed 
        type="text/html" 
        src="/assets/images/map.html"
-       width="500"
-       height="500"
-       style="float: left"
+       width="1400"
+       height="800"
+       style="margin-left: -300px"
        >
 
 This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot.
