@@ -5,15 +5,11 @@ date: 2023-03-21 09:50:58 +0100
 categories: jekyll update
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+## Introduction
 
-Jekyll requires blog post files to be named according to the following format:
+Criminal behaviour has been an ongoing research field to assist in crime prevention. One way to better understand criminal behaviour is investigating the correlation between different crimes. Analysing correlation between different crimes can provide insights for criminal behavior in specific areas. We can also gain information on the motivations and methods of criminals, and use this information to develop more effective strategies for preventing and responding to crime. Some potentially correlated crimes are drugs and robbery. If there is a strong correlation between drug use and robbery in a given area, solving drug problems in the area may effectively reduce robbery crimes in the area as well. We will be analysing a dataset retrieved from DataSF (https://datasf.org/opendata/), which consists of crime data in San Franscisco from 2003 to 2018. We will be investigating the following crime types: ['DRUG/NARCOTIC', 'ROBBERY', 'BURGLARY', 'LARCENY/THEFT'].
 
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
+## Bar plots
 
 <img style="float: right; width: 500px; height: 400px;" src="/assets/images/time_series.png">
 
@@ -28,6 +24,20 @@ print_hi('Tom')
 {% endhighlight %}
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+## Map plot
+
+<embed 
+       type="text/html" 
+       src="/assets/images/map.html"
+       width="500"
+       height="500"
+       style="float: left"
+       >
+
+This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot.
+
+## Bokeh plot
 
 <embed 
        type="text/html" 
