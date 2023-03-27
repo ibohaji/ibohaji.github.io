@@ -11,21 +11,21 @@ categories: jekyll update
 
 ## Bar plots
 
-<div style="text-align: justify">Firstly, we have plotted bar plots representing average number of crime occurences against hours of the week for the following 4 crimes, 'DRUG/NARCOTIC', 'STOLEN PROPERTY', 'ASSAULT' and 'BURGLARY'. Our goal is to investigate if 'STOLEN PROPERTY', 'ASSAULT' and 'BURGLARY' have a similar average hourly crime occurences pattern over the week as 'DRUG/NARCOTIC'. <img style="float: right; width: 500px; height: 400px; padding-left:20px; padding-top:20px" src="/assets/images/barplot.jpg"> If you refer to the first bar plot, 'DRUG/NARCOTIC' has the following distribution where the number of crime occurences rise and peaks during the afternoon of each day. The crime count then decreases throughout the night and increase again towards the afternoon of the next day. We have observed that 'STOLEN PROPERTY' has the most similar crime count pattern as 'DRUG/NARCOTIC' and it peaks at about 100 on Wednesday late afternoon. 'ASSAULT' has a slightly different crime count pattern where the crime count does not rise as significantly as 'DRUG/NARCOTIC' in the afternoon. Instead, the crime count only increases gradually. Another difference is that crime count for 'ASSAULT' is the highest at 90 on Friday night and Saturday night. 'BURGLARY' crime count pattern is the least similar to 'DRUG/NARCOTIC', where there are two spikes during noon and afternoon for each day of the week.</div>
+<div style="text-align: justify">Firstly, we have plotted bar plots representing average number of crime occurences against hours of the week for the following 4 crimes, 'DRUG/NARCOTIC', 'STOLEN PROPERTY', 'ASSAULT' and 'BURGLARY'. Our goal is to investigate if 'STOLEN PROPERTY', 'ASSAULT' and 'BURGLARY' have a similar average hourly crime occurences pattern over the week as 'DRUG/NARCOTIC'. <img style="float: right; width: 500px; height: 400px; padding-left:20px; padding-top:20px" src="/assets/images/barplot.jpg"> If you refer to the first bar plot, 'DRUG/NARCOTIC' has the following distribution where the number of crime occurences rise and peaks during the afternoon of each day. The crime count then decreases throughout the night and increase again towards the afternoon of the next day. We have observed that 'STOLEN PROPERTY' has the most similar activity pattern as 'DRUG/NARCOTIC' and it peaks at about 100 on Wednesday late afternoon. 'ASSAULT' has a slightly different activity pattern where the crime count does not rise as significantly as 'DRUG/NARCOTIC' in the afternoon. Instead, the crime count only increases gradually. Another difference is that crime count for 'ASSAULT' is the highest at 90 on Friday night and Saturday night. 'BURGLARY' crime count pattern is the least similar to 'DRUG/NARCOTIC', where there are two spikes during noon and afternoon for each day of the week.</div>
 
 ## Map plot
 
 <embed 
        type="text/html" 
-       src="/assets/images/map.html"
+       src="/assets/images/my_plot.html"
        width="1400"
        height="800"
        style="margin-left: -300px"
        >
 
-<div style="text-align: justify"> This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. This is a bunch of text descriping map plot. </div>
+<div style="text-align: justify"> The trend spiked our interest to further investigate if we can detect similarity in the geographical pattern as well. The dots in the above geoplot plot represents the occurence of the crime at the arrest time, the color and size of each dot represent the category of crime and the occurence at the same exact location at the time, respectivly. The crime activity is very prominent in the district of tenderloin, this is due to several factors among others the high poverty, unemployment and addiction rates. It's further evident that root of most of the crimes are drug related, and thus the district needs to combat the  drug pandemic that is plaguing Tenderloin.    </div>
 
-## Bokeh plot
+## Various
 
 <embed 
        type="text/html" 
