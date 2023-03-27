@@ -44,7 +44,7 @@ According to recent [report](https://drugabusestatistics.org/drug-related-crime-
        >
 
 <div style="text-align: justify"> After conducting a more thorough investigation, and analyzing the temporal trends of the overall drug related crimes on a wider scope, we partitioned the drug related data into sub-categories, consisting of the specific substance class assosicated with the arrest.
-it is quite evident that cocaine holds the title for the most popular drug among the citezens of san fransico. Furthermore it is important to point out that the cocaine category also contain crack-cocaine. Additionaly it that the overall drug popularity has been declining since around 2010
+it is quite evident that cocaine holds the title for the most popular drug among the citezens of San Fransico. Furthermore it is important to point out that the cocaine category also contain crack-cocaine. Additionaly the overall drug popularity has been declining since around 2010
 .</div>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
