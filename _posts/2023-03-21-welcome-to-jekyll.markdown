@@ -43,7 +43,9 @@ According to recent [report](https://drugabusestatistics.org/drug-related-crime-
        style="margin-left: -80px"
        >
 
-<div style="text-align: justify"> As there is a need to combat the drug pandemic that is plaguing Tenderloin, we investigate the types of drug related crimes over the years. It is evident that the number of drug related crimes have decreased gradually from 2003 to 2018. We can also observe that cocaine related crimes have decreased significantly from about 2500 in 2003 to about 300 in 2018. However, paraphernalia crimes have occasional spikes through the years and have became the highest drug related crime in 2018. Paraphernalia in Tenderloin should be further investigated.</div>
+<div style="text-align: justify"> After conducting a more thorough investigation, and analyzing the temporal trends of the overall drug related crimes on a wider scope, we partitioned the drug related data into sub-categories, consisting of the specific substance class assosicated with the arrest.
+it is quite evident that cocaine holds the title for the most popular drug among the citezens of san fransico. Furthermore it is important to point out that the cocaine category also contain crack-cocaine. Additionaly it that the overall drug popularity has been declining since around 2010
+.</div>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]: https://github.com/jekyll/jekyll
