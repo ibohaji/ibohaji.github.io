@@ -29,8 +29,8 @@ categories: jekyll update
 
 <embed 
        type="text/html" 
-       src="/assets/images/Focuscrime.html"
-       width="600"
+       src="/assets/images/Bokeh.html"
+       width="900"
        height="600"
        style="float: left"
        >
