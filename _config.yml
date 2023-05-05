@@ -49,3 +49,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+carousels:
+  - images:
+      - image: /assets/images/barplot.jpg
+      - image: /assets/images/barplot.jpg

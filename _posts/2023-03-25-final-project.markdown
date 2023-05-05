@@ -3,43 +3,17 @@ layout: post
 title: "Final Project"
 date: 2023-03-21 09:50:58 +0100
 categories: jekyll update
+carousels:
+  - images:
+      - image: /assets/images/barplot.jpg
+      - image: /assets/images/barplot.jpg
 ---
 
 ## Introduction
 
-<!-- Slideshow container -->
-<div class="slideshow-container">
+<div>Testing1</div>
 
-  <!-- Full-width images with number and caption text -->
-  <div class="mySlides fade">
-    <div class="numbertext">1 / 3</div>
-    <img src="/assets/images/barplot.jpg" style="width:100%">
-    <div class="text">Caption Text</div>
-  </div>
+<div>Testing2</div>
 
-  <div class="mySlides fade">
-    <div class="numbertext">2 / 3</div>
-    <img src="/assets/images/barplot.jpg" style="width:100%">
-    <div class="text">Caption Two</div>
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext">3 / 3</div>
-    <img src="/assets/images/barplot.jpg" style="width:100%">
-    <div class="text">Caption Three</div>
-  </div>
-
-  <!-- Next and previous buttons -->
-
-<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-<a class="next" onclick="plusSlides(1)">&#10095;</a>
-
-</div>
-<br>
-
-<!-- The dots/circles -->
-<div style="text-align:center">
-  <span class="dot" onclick="currentSlide(1)"></span>
-  <span class="dot" onclick="currentSlide(2)"></span>
-  <span class="dot" onclick="currentSlide(3)"></span>
-</div>
+{% include carousel.html height="50" unit="%" duration="7" number="1" %}
+{% include carousel.html height="50" unit="%" duration="7" number="2" %}
