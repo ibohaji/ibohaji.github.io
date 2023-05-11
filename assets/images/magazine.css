@@ -1,0 +1,22 @@
+.magazine-carousel {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .magazine-carousel img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .magazine-map {
+    margin-bottom: 30px;
+  }
+  
+  .magazine-map embed {
+    width: 100%;
+    max-width: 1000px;
+    height: 600px;
+    margin-left: -100px;
+  }
