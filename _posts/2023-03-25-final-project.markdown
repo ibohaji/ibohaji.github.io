@@ -54,6 +54,17 @@ carousels:
   margin-top: 10px;
   font-size: 14px;
 }
+.magazine-figure {
+  text-align: center;
+  overflow: hidden;
+}
+
+.magazine-figure img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+
 
 </style>
 
@@ -74,14 +85,13 @@ carousels:
 </div>
 
 <h2 class="magazine-section-title">Where does Africa rank among the rest of the world?</h2>
-<div class="magazine-map">
-  <figure>
+<div class="magazine-figure">
+  <figure class ="magazine-figure">
     <embed 
       type="text/html" 
       src="/assets/images/Average_happiness_2015_to_2022_comparison.html"
       width="700"
       height="500"
-      style="margin-right: 5px"
     >
      <div class="photo-caption">Average happiness across the world from the years 2015 - 2022</div>
   </figure>
