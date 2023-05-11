@@ -8,7 +8,7 @@ carousels:
 
 <style>
   .magazine-introduction {
-    background-color: #fafafa;
+    background-color: #FFFFFF	;
     padding: 20px;
     margin-bottom: 20px;
   }
