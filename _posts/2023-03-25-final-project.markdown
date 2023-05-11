@@ -9,7 +9,7 @@ carousels:
       - image: /assets/images/slide2.jpg
 ---
 
-## Introduction
+# Whoever said money can't buy happiness simply didn't know where to shop
 
 <div> {% include carousel.html height="50" unit="%" duration="7" number="1" %} </div>
 <embed 
