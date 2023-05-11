@@ -5,6 +5,8 @@ date: 2023-03-21 09:50:58 +0100
 categories: jekyll update
 carousels:
 ---
+<body style="background-color: blue;">
+
 <style>
   
   .magazine-introduction {
