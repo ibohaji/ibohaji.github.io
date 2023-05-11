@@ -50,7 +50,7 @@ carousels:
       height="600"
       style="margin-right: -100px"
     >
-    <figcaption style="font-size: 16px; margin-top: 10px;">Average happiness across the world from the years 2015 - 2022</figcaption>
+    <figcaption style="font-size: 16px; margin-top: 5px;">Average happiness across the world from the years 2015 - 2022</figcaption>
   </figure>
 </div>
 
