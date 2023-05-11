@@ -49,7 +49,7 @@ carousels:
       src="/assets/images/Average_happiness_2015_to_2022_comparison.html"
       width="800"
       height="600"
-      style="margin-left: -100px"
+      style="margin-right: -100px"
     >
     <figcaption style="font-size: 16px; margin-top: 10px;">Average happiness across the world from the years 2015 - 2022
 </figcaption>
