@@ -5,8 +5,8 @@ date: 2023-03-21 09:50:58 +0100
 categories: jekyll update
 carousels:
 ---
-<body style="background-color: white;">
 
+<body style="background-color: white;">
 
 <style>
   
@@ -53,31 +53,28 @@ map-container {
 
 </style>
 
-
 .magazine-title-picture img {
-  max-width: 100%;
-  max-height: 100%;
-  object-fit: cover;
+max-width: 100%;
+max-height: 100%;
+object-fit: cover;
 }
 
 .photo-caption {
-  margin-top: 10px;
-  font-size: 14px;
+margin-top: 10px;
+font-size: 14px;
 }
 .magazine-figure {
-  text-align: center;
-  overflow: hidden;
+text-align: center;
+overflow: hidden;
 }
 
 .magazine-figure img {
-  max-width: 100%;
-  max-height: 100%;
-  object-fit: cover;
+max-width: 100%;
+max-height: 100%;
+object-fit: cover;
 }
 
-
 </style>
-
 
 <div class="magazine-title-picture">
   <img src="https://i.pinimg.com/564x/60/4a/41/604a41714c75b02b3c90a6ad8c267fd8.jpg" alt="Title Picture">
@@ -96,11 +93,9 @@ map-container {
   <p>And while these metric might help in explaining the happiness and well-being of a population, it’s also worthwhile to note that happiness is subjective and the ingredients for one nation’s well-being might not necessarily be the same for another nation as they differ in terms of culture and other socio-economic factors.</p> 
 </div>
 
-
   <div id="map-container"></div>
 
   <script src="assets/map.html"></script>
-
 
 <h2 class="magazine-section-title">Where does Africa rank among the rest of the world?</h2>
 <div class="magazine-figure">
@@ -115,10 +110,8 @@ map-container {
   </figure>
 </div>
 
-
-
 <div class = "magazine-paragraph"> 
-at first glance nothing seems out of the ordinary, and as we might have suspected or expected The nordic countries are leading the way in terms of happiness score and rank, followed by north america and western europe.
+At first glance nothing seems out of the ordinary, and as we might have suspected or expected, the nordic countries are leading the way in terms of happiness score and rank, followed by north america and western europe.
 However what is exactly causing this pronounced contrast between the happiness scores of Africa, Southern Asia and the Nordic countries. What are the main factors for this contrast? Can we objectively define what contributes to happiness from subjectively derived data ?  
 </div>
 
@@ -143,7 +136,19 @@ However what is exactly causing this pronounced contrast between the happiness s
       width="900"
       height="500"
     >
-     <div class="photo-caption">Average happiness across the world from the years 2015 - 2022</div>
+     <div class="photo-caption">From 2015 to 2022, we can see a general trend that the higher the life expectancy, the higher the happiness score. This trend is unsurprising as one would expect one to be more happy with better health.</div>
+  </figure>
+</div>
+
+<div class="magazine-map">
+  <figure>
+    <embed 
+      type="text/html" 
+      src="/assets/images/scatterLifeExpectency.html"
+      width="900"
+      height="500"
+    >
+     <div class="photo-caption">REPLACE THIS VISUALISATION WITH AFRICA PLOT. When we narrow down to countries in Africa, it can be seen that the correlation between life expectancy and happiness is much lower. This correlation remains higher for countries outside of Africa. This could be a possible explanation that life expectancy is not as determining of a factor for Happiness Score for countries in Africa as compared to those outside of Africa.</div>
   </figure>
 </div>
 
@@ -176,20 +181,17 @@ However what is exactly causing this pronounced contrast between the happiness s
 
 <div class="magazine-section">
   <h2 class="magazine-section-title">Social Support</h2>
-  <p class="magazine-section-text">Examining the significance of social connections and support networks, we investigate how strong social ties contribute to happiness and well-being, focusing on diverse communities globally.</p>
+  <p class="magazine-section-text">Examining the significance of social connections and support networks, we investigate how strong social ties contribute to happiness and well-being, focusing on diverse communities globally. Similar to Life expectancy, Happiness is more highly correlated with Social support for countries outside of Africa than countries in Africa. </p>
 </div>
-
 
 <div class="magazine-carousel">
   {% include carousel.html height="50" unit="%" duration="7" number="1" %}
 </div>
 
-
-
-
-
-## Countries in Africa
-
-## Countries outside of Africa
+<div class="magazine-section">
+  <h2 class="magazine-section-title">Conclusion</h2>
+  <p class="magazine-section-text">After observing the Happiness score over 5 elements for countries in and outside of Africa, there is a significant difference in what determines Happiness score for different parts of the world. Happiness is highly correlated with elements such as "Social Support", "Healthy life expectancy" and "GDP per capita" for countries outside of Africa. On the other hand, happiness for Countries in Africa are not highly correlated with most of these elements. The way one views Happiness is shaped by their cultural and social upbringing. Some other elements that we can explore to find out what determines happiness for countries in Africa are education and religion.
+ </p>
+</div>
 
 ## Conclusion
