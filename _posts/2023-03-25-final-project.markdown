@@ -12,7 +12,7 @@ carousels:
 
 <div class="magazine-introduction">
   <h1 class="magazine-title">Ingredients for a Happy Life</h1>
-  <p class="magazine-intro-text">The question of happiness has never been more relevant than in the past couple of years. From the COVID-19 pandemic and the accompanying lockdown restrictions on our lives, to the loss of jobs and the war in Ukraine, we have faced numerous challenges. Additionally, the increasing fuel prices and their domino effect on the prices of basic goods and necessities have further impacted our well-being. In light of these circumstances, we have embarked on a journey to delve deeper into the elements that make us "happy". According to the World Happiness Report, these five elements can be categorized as: healthy life expectancy, freedom to make life decisions, GDP per capita, perception of corruption, and social support.</p>
+  <p class="magazine-intro-text">The question of happiness has never more relevant than in the past couple of years. From the covid-19 pandemic and the accompanying lockdown restrictions on our lives and the loss of jobs, to the war in Ukraine, our subjective happiness have been questionable. Additionaly the increasing fuel prices and its domino effect on the prices of basic goods and necessity have further impacted our well-bieng. Therefore, we decided to delve deeper into the single elements that makes us “happy”, according to the World Happiness Report these five elements can be categorized as: healthy life expectancy, freedom to take life decisions, GDP per capita, healthy life expectancy, perception of corruption and social support..</p>
 </div>
 
 ## Exploring Happiness Indicators
