@@ -16,14 +16,17 @@ carousels:
 </div>
 
 <div class="magazine-map">
-  <embed 
-    type="text/html" 
-    src="/assets/images/Average_happiness_2015_to_2022_comparison.html"
-    width="1000"
-    height="600"
-    style="margin-left: -100px"
-      <p class="magazine-map-caption">Average happiness across the world from the years 2015 - 2022.</p>
-  >
+  <figure>
+    <embed 
+      type="text/html" 
+      src="/assets/images/Average_happiness_2015_to_2022_comparison.html"
+      width="1000"
+      height="600"
+      style="margin-left: -100px"
+    >
+    <figcaption style="font-size: 16px; margin-top: 10px;">Average happiness across the world from the years 2015 - 2022
+</figcaption>
+  </figure>
 </div>
 
 ## Exploring Happiness Indicators
