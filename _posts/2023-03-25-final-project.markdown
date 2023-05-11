@@ -72,6 +72,8 @@ carousels:
 
   <p>And while these metric might help in explaining the happiness and well-being of a population, it’s also worthwhile to note that happiness is subjective and the ingredients for one nation’s well-being might not necessarily be the same for another nation as they differ in terms of culture and other socio-economic factors.</p> 
 </div>
+
+<h2 class="magazine-section-title">Where does Africa rank among the rest of the world?</h2>
 <div class="magazine-map">
   <figure>
     <embed 
@@ -79,12 +81,12 @@ carousels:
       src="/assets/images/Average_happiness_2015_to_2022_comparison.html"
       width="800"
       height="600"
-      style="margin-right: -100px"
+      style="margin-right: 5px"
     >
     <figcaption style="font-size: 16px; margin-top: 5px;">Average happiness across the world from the years 2015 - 2022</figcaption>
   </figure>
 </div>
-<h2 class="magazine-section-title">Where does Africa rank among the rest of the world?</h2>
+
 
 <div class =">
 ## Exploring Happiness Indicators
