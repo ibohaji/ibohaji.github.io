@@ -46,6 +46,12 @@ carousels:
   text-align: center;
   overflow: hidden;
 }
+#map-container {
+  width: 100%;
+  height: 400px;
+}
+</style>
+
 
 .magazine-title-picture img {
   max-width: 100%;
@@ -89,6 +95,12 @@ carousels:
   <p>And while these metric might help in explaining the happiness and well-being of a population, it’s also worthwhile to note that happiness is subjective and the ingredients for one nation’s well-being might not necessarily be the same for another nation as they differ in terms of culture and other socio-economic factors.</p> 
 </div>
 
+
+  <div id="map-container"></div>
+
+  <script src="assets/map.html"></script>
+
+
 <h2 class="magazine-section-title">Where does Africa rank among the rest of the world?</h2>
 <div class="magazine-figure">
   <figure class ="magazine-figure">
@@ -102,9 +114,11 @@ carousels:
   </figure>
 </div>
 
-<div class = "magazine-paragraph"> "
+
+
+<div class = "magazine-paragraph"> 
 at first glance nothing seems out of the ordinary, and as we might have suspected or expected The nordic countries are leading the way in terms of happiness score and rank, followed by north america and western europe.
-However what is exactly causing this pronounced contrast between the happiness scores of Africa, Southern Asia and the Nordic countries. What are the main factors for this contrast? Can we objectively define what contributes to happiness from subjectively derived data ? 
+However what is exactly causing this pronounced contrast between the happiness scores of Africa, Southern Asia and the Nordic countries. What are the main factors for this contrast? Can we objectively define what contributes to happiness from subjectively derived data ?  
 </div>
 
 <div class="magazine-section">
