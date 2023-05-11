@@ -105,6 +105,19 @@ carousels:
   <p class="magazine-section-text"> place holder place holder place holder   place holder   place holder   place holder   place holder   place holder   place holder   place holder   place holder   place holder   place holder  </p>
 </div>
 
+<div class="magazine-map">
+  <figure>
+    <embed 
+      type="text/html" 
+      src="/assets/images/scatterLifeExpectency.html"
+      width="700"
+      height="500"
+      style="margin-right: 5px"
+    >
+     <div class="photo-caption">Average happiness across the world from the years 2015 - 2022</div>
+  </figure>
+</div>
+
 <div class="magazine-section">
   <h2 class="magazine-section-title">Freedom to Make Life Decisions</h2>
   <p class="magazine-section-text">.</p>
@@ -112,6 +125,18 @@ carousels:
 
 <div class="magazine-section">
   <h2 class="magazine-section-title">GDP per Capita</h2>
+  <div class="magazine-map">
+  <figure>
+    <embed 
+      type="text/html" 
+      src="/assets/images/ScatterGDP.html"
+      width="700"
+      height="500"
+      style="margin-right: 5px"
+    >
+     <div class="photo-caption"></div>
+  </figure>
+</div>
   <p class="magazine-section-text">.</p>
 </div>
 
