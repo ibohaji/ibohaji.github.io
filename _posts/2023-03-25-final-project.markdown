@@ -89,12 +89,7 @@ map-container {
 </div>
 
 
-<div class="magazine-section">
-  <h2 class="magazine-section-title">Map</h2>
-  <div id="map-container">
-    {% assets/folium_map.html %}
-  </div>
-</div>
+
 
 <div class = "magazine-paragraph"> 
 At first glance nothing seems out of the ordinary, and as we might have suspected or expected, the nordic countries are leading the way in terms of happiness score and rank, followed by north america and western europe.
@@ -125,6 +120,20 @@ However what is exactly causing this pronounced contrast between the happiness s
      <div class="photo-caption">From 2015 to 2022, we can see a general trend that the higher the life expectancy, the higher the happiness score. This trend is unsurprising as one would expect one to be more happy with better health.</div>
   </figure>
 </div>
+
+
+<div class="magazine-map">
+  <figure>
+    <embed 
+      type="text/html" 
+      src="/assets/images/folium_map.html"
+      width="900"
+      height="500"
+    >
+
+  </figure>
+</div>
+
 
 <div class="magazine-map">
   <figure>
