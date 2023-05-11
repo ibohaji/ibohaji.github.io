@@ -9,19 +9,49 @@ carousels:
       - image: /assets/images/slide2.jpg
 ---
 
+<style>
+  .magazine-introduction {
+    background-color: #f1f1f1;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+
+  .magazine-title {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+
+  .magazine-intro-text {
+    font-size: 18px;
+    margin-bottom: 20px;
+    line-height: 1.5;
+  }
+
+  .magazine-section-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+</style>
+
 
 <div class="magazine-introduction">
   <h1 class="magazine-title">Ingredients for a Happy Life</h1>
   <p class="magazine-intro-text">The question of happiness has never more relevant than in the past couple of years. From the covid-19 pandemic and the accompanying lockdown restrictions on our lives and the loss of jobs, to the war in Ukraine, our subjective happiness have been questionable. Additionaly the increasing fuel prices and its domino effect on the prices of basic goods and necessity have further impacted our well-bieng. Therefore, we decided to delve deeper into the single elements that makes us “happy”, according to the World Happiness Report these five elements can be categorized as: healthy life expectancy, freedom to take life decisions, GDP per capita, healthy life expectancy, perception of corruption and social support..</p>
+
+  <p>And while these metric might help in explaining the happiness and well-being of a population, it’s also worthwhile to note that happiness is subjective and the ingredients for one nation’s well-being might not necessarily be the same for another nation as they differ in terms of culture and other socio-economic factors.
 </div>
+
+<h2 class="magazine-section-title">Where does Africa rank among the rest of the world?</h2>
 
 <div class="magazine-map">
   <figure>
     <embed 
       type="text/html" 
       src="/assets/images/Average_happiness_2015_to_2022_comparison.html"
-      width="1000"
-      height="600"
+      width="800"
+      height="400"
       style="margin-left: -100px"
     >
     <figcaption style="font-size: 16px; margin-top: 10px;">Average happiness across the world from the years 2015 - 2022
