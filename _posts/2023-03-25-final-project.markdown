@@ -15,6 +15,17 @@ carousels:
   <p class="magazine-intro-text">The question of happiness has never more relevant than in the past couple of years. From the covid-19 pandemic and the accompanying lockdown restrictions on our lives and the loss of jobs, to the war in Ukraine, our subjective happiness have been questionable. Additionaly the increasing fuel prices and its domino effect on the prices of basic goods and necessity have further impacted our well-bieng. Therefore, we decided to delve deeper into the single elements that makes us “happy”, according to the World Happiness Report these five elements can be categorized as: healthy life expectancy, freedom to take life decisions, GDP per capita, healthy life expectancy, perception of corruption and social support..</p>
 </div>
 
+<div class="magazine-map">
+  <embed 
+    type="text/html" 
+    src="/assets/images/Average_happiness_2015_to_2022_comparison.html"
+    width="1000"
+    height="600"
+    style="margin-left: -100px"
+      <p class="magazine-map-caption">Average happiness across the world from the years 2015 - 2022.</p>
+  >
+</div>
+
 ## Exploring Happiness Indicators
 
 <div class="magazine-section">
@@ -47,15 +58,7 @@ carousels:
   {% include carousel.html height="50" unit="%" duration="7" number="1" %}
 </div>
 
-<div class="magazine-map">
-  <embed 
-    type="text/html" 
-    src="/assets/images/Average_happiness_2015_to_2022_comparison.html"
-    width="1000"
-    height="600"
-    style="margin-left: -100px"
-  >
-</div>
+
 
 <div class="magazine-map">
   <embed 
