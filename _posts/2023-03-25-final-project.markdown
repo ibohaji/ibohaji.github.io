@@ -1,4 +1,4 @@
----
+ ---
 layout: post
 title: "Ingredients for a Happy Life: Exploring Happiness Indicators in Africa and Beyond"
 date: 2023-03-21 09:50:58 +0100
@@ -11,7 +11,7 @@ carousels:
 
 <style>
   .magazine-introduction {
-    background-color: #f1f1f1;
+    background-color: #FFFFFF;
     padding: 20px;
     margin-bottom: 20px;
   }
@@ -51,7 +51,7 @@ carousels:
       type="text/html" 
       src="/assets/images/Average_happiness_2015_to_2022_comparison.html"
       width="800"
-      height="400"
+      height="600"
       style="margin-left: -100px"
     >
     <figcaption style="font-size: 16px; margin-top: 10px;">Average happiness across the world from the years 2015 - 2022
@@ -108,4 +108,3 @@ carousels:
 ## Countries outside of Africa
 
 ## Conclusion
-
