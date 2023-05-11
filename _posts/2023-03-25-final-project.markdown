@@ -61,7 +61,7 @@ carousels:
 <div class="magazine-title-picture">
   <img src="https://i.pinimg.com/564x/60/4a/41/604a41714c75b02b3c90a6ad8c267fd8.jpg" alt="Title Picture">
   <div class="photo-caption">
-    Photo by <a href="https://example.com">Flashbacks and Echoes Photography</a>
+    Photo by <a href="https://www.pinterest.dk/FlashbacksandEchoesPhotography/">Flashbacks and Echoes Photography</a>
   </div>
 </div>
 
@@ -79,8 +79,8 @@ carousels:
     <embed 
       type="text/html" 
       src="/assets/images/Average_happiness_2015_to_2022_comparison.html"
-      width="900"
-      height="400"
+      width="700"
+      height="500"
       style="margin-right: 5px"
     >
      <div class="photo-caption">Average happiness across the world from the years 2015 - 2022</div>
@@ -97,8 +97,8 @@ carousels:
   <embed 
     type="text/html" 
     src="/assets/images/Average_life_expectancy_across_the_world.html"
-    width="900"
-    height="400"
+    width="700"
+    height="500"
     style="margin-right: 5px"
   >
 </div>
