@@ -1,10 +1,12 @@
 ---
 layout: post
+title: ""
 date: 2023-03-21 09:50:58 +0100
 categories: jekyll update
 carousels:
 ---
 <style>
+  
   .magazine-introduction {
     background-color: #fafafa;
     padding: 20px;
@@ -37,6 +39,22 @@ carousels:
     font-weight: bold;
     margin-bottom: 10px;
   }
+  .magazine-title-picture {
+  text-align: center;
+  overflow: hidden;
+}
+
+.magazine-title-picture img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+
+.photo-caption {
+  margin-top: 10px;
+  font-size: 14px;
+}
+
 </style>
 
 
@@ -45,7 +63,7 @@ carousels:
   <div class="photo-caption">
     Photo by <a href="https://example.com">Flashbacks and Echoes Photography</a>
   </div>
-</div
+</div>
 
 <div class="magazine-introduction">
   <h1 class="magazine-title">Ingredients for a Happy Life: Exploring Happiness Indicators in Africa and Beyond</h1>
