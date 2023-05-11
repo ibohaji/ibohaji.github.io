@@ -93,7 +93,16 @@ carousels:
 
 <div class="magazine-section">
   <h2 class="magazine-section-title">Healthy Life Expectancy</h2>
-  <p class="magazine-section-text">.</p>
+  <div class="magazine-map">
+  <embed 
+    type="text/html" 
+    src="/assets/images/Average_life_expectancy_across_the_world.html"
+    width="1000"
+    height="600"
+    style="margin-left: -100px"
+  >
+</div>
+  <p class="magazine-section-text"> place holder place holder place holder   place holder   place holder   place holder   place holder   place holder   place holder   place holder   place holder   place holder   place holder  </p>
 </div>
 
 <div class="magazine-section">
@@ -123,15 +132,7 @@ carousels:
 
 
 
-<div class="magazine-map">
-  <embed 
-    type="text/html" 
-    src="/assets/images/Average_life_expectancy_across_the_world.html"
-    width="1000"
-    height="600"
-    style="margin-left: -100px"
-  >
-</div>
+
 
 ## Countries in Africa
 
