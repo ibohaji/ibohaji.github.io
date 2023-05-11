@@ -4,14 +4,11 @@ title: "Ingredients for a Happy Life: Exploring Happiness Indicators in Africa a
 date: 2023-03-21 09:50:58 +0100
 categories: jekyll update
 carousels:
-  - images:
-      - image: /assets/images/slide1.jpg
-      - image: /assets/images/slide2.jpg
 ---
 
 <style>
   .magazine-introduction {
-    background-color: #FFFFFF;
+    background-color: #fafafa;
     padding: 20px;
     margin-bottom: 20px;
   }
