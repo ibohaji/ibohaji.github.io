@@ -9,7 +9,6 @@ carousels:
 <body style="background-color: white;">
 
 <style>
-  
   .magazine-introduction {
     background-color: #fafafa;
     padding: 20px;
@@ -50,29 +49,8 @@ map-container {
   width: 100%;
   height: 400px;
 }
-
 </style>
 
-.magazine-title-picture img {
-max-width: 100%;
-max-height: 100%;
-object-fit: cover;
-}
-
-.photo-caption {
-margin-top: 10px;
-font-size: 14px;
-}
-.magazine-figure {
-text-align: center;
-overflow: hidden;
-}
-
-.magazine-figure img {
-max-width: 100%;
-max-height: 100%;
-object-fit: cover;
-}
 
 </style>
 
@@ -108,6 +86,14 @@ object-fit: cover;
     >
      <div class="photo-caption">Average happiness across the world from the years 2015 - 2022</div>
   </figure>
+</div>
+
+
+<div class="magazine-section">
+  <h2 class="magazine-section-title">Map</h2>
+  <div id="map-container">
+    {% assets/folium_map.html %}
+  </div>
 </div>
 
 <div class = "magazine-paragraph"> 
