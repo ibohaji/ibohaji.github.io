@@ -79,11 +79,11 @@ carousels:
     <embed 
       type="text/html" 
       src="/assets/images/Average_happiness_2015_to_2022_comparison.html"
-      width="800"
-      height="600"
+      width="700"
+      height="300"
       style="margin-right: 5px"
     >
-    <figcaption style="font-size: 16px; margin-top: 5px;">Average happiness across the world from the years 2015 - 2022</figcaption>
+     <div class="photo-caption">Average happiness across the world from the years 2015 - 2022</div>
   </figure>
 </div>
 
@@ -97,9 +97,9 @@ carousels:
   <embed 
     type="text/html" 
     src="/assets/images/Average_life_expectancy_across_the_world.html"
-    width="1000"
-    height="600"
-    style="margin-left: -100px"
+    width="700"
+    height="300"
+    style="margin-right: 5px"
   >
 </div>
   <p class="magazine-section-text"> place holder place holder place holder   place holder   place holder   place holder   place holder   place holder   place holder   place holder   place holder   place holder   place holder  </p>
