@@ -40,9 +40,13 @@ carousels:
 </style>
 
 
-<div class = "magazine-title-picture">
-  <img src = "https://i.pinimg.com/564x/60/4a/41/604a41714c75b02b3c90a6ad8c267fd8.jpg",alt ="title picture">
-</div>
+<div class="magazine-title-picture">
+  <img src="https://i.pinimg.com/564x/60/4a/41/604a41714c75b02b3c90a6ad8c267fd8.jpg" alt="Title Picture">
+  <div class="photo-caption">
+    Photo by <a href="https://example.com">Flashbacks and Echoes Photography</a>
+  </div>
+</div
+
 <div class="magazine-introduction">
   <h1 class="magazine-title">Ingredients for a Happy Life: Exploring Happiness Indicators in Africa and Beyond</h1>
   <p class="magazine-intro-text">The question of happiness has never more relevant than in the past couple of years. From the covid-19 pandemic and the accompanying lockdown restrictions on our lives and the loss of jobs, to the war in Ukraine, our subjective happiness have been questionable. Additionaly the increasing fuel prices and its domino effect on the prices of basic goods and necessity have further impacted our well-bieng. Therefore, we decided to delve deeper into the single elements that makes us “happy”, according to the World Happiness Report these five elements can be categorized as: healthy life expectancy, freedom to take life decisions, GDP per capita, healthy life expectancy, perception of corruption and social support..</p>
