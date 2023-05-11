@@ -7,6 +7,10 @@ carousels:
 ---
 <body style="background-color: white;">
 
+<div class="magazine-introduction">
+  <h1 class="magazine-title">Ingredients for a Happy Life: Exploring Happiness Indicators in Africa and Beyond</h1>
+</div>
+
 <style>
   
   .magazine-introduction {
