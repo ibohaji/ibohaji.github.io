@@ -100,7 +100,7 @@ carousels:
     width="700"
     height="500"
     style="margin-right: 5px"
-  >
+  > 
 </div>
   <p class="magazine-section-text"> place holder place holder place holder   place holder   place holder   place holder   place holder   place holder   place holder   place holder   place holder   place holder   place holder  </p>
 </div>
@@ -110,7 +110,7 @@ carousels:
     <embed 
       type="text/html" 
       src="/assets/images/scatterLifeExpectency.html"
-      width="700"
+      width="900"
       height="500"
       style="margin-right: 5px"
     >
@@ -130,7 +130,7 @@ carousels:
     <embed 
       type="text/html" 
       src="/assets/images/ScatterGDP.html"
-      width="700"
+      width="900"
       height="500"
       style="margin-right: 5px"
     >
