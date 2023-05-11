@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "Ingredients for a Happy Life: Exploring Happiness Indicators in Africa and Beyond"
 date: 2023-03-21 09:50:58 +0100
 categories: jekyll update
 carousels:
