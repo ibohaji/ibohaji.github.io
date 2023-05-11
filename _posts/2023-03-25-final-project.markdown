@@ -46,10 +46,11 @@ carousels:
   text-align: center;
   overflow: hidden;
 }
-#map-container {
+map-container {
   width: 100%;
   height: 400px;
 }
+
 </style>
 
 
