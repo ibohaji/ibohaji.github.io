@@ -5,10 +5,9 @@ date: 2023-03-21 09:50:58 +0100
 categories: jekyll update
 carousels:
 ---
-
 <style>
   .magazine-introduction {
-    background-color: #FFFFFF	;
+    background-color: #fafafa;
     padding: 20px;
     margin-bottom: 20px;
   }
@@ -33,6 +32,7 @@ carousels:
 </style>
 
 
+
 <div class="magazine-introduction">
   <h1 class="magazine-title">Ingredients for a Happy Life</h1>
   <p class="magazine-intro-text">The question of happiness has never more relevant than in the past couple of years. From the covid-19 pandemic and the accompanying lockdown restrictions on our lives and the loss of jobs, to the war in Ukraine, our subjective happiness have been questionable. Additionaly the increasing fuel prices and its domino effect on the prices of basic goods and necessity have further impacted our well-bieng. Therefore, we decided to delve deeper into the single elements that makes us “happy”, according to the World Happiness Report these five elements can be categorized as: healthy life expectancy, freedom to take life decisions, GDP per capita, healthy life expectancy, perception of corruption and social support..</p>
@@ -50,8 +50,7 @@ carousels:
       height="600"
       style="margin-right: -100px"
     >
-    <figcaption style="font-size: 16px; margin-top: 10px;">Average happiness across the world from the years 2015 - 2022
-</figcaption>
+    <figcaption style="font-size: 16px; margin-top: 10px;">Average happiness across the world from the years 2015 - 2022</figcaption>
   </figure>
 </div>
 
