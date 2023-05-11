@@ -71,9 +71,15 @@ map-container {
   <p>And while these metric might help in explaining the happiness and well-being of a population, it’s also worthwhile to note that happiness is subjective and the ingredients for one nation’s well-being might not necessarily be the same for another nation as they differ in terms of culture and other socio-economic factors.</p> 
 </div>
 
-  <div id="map-container"></div>
-
-  <script src="assets/map.html"></script>
+<div class="magazine-map">
+  <figure>
+    <embed 
+      type="text/html" 
+      src="/assets/images/folium_map.html"
+      width="900"
+    >
+  </figure>
+</div>
 
 <h2 class="magazine-section-title">Where does Africa rank among the rest of the world?</h2>
 <div class="magazine-figure">
@@ -122,17 +128,7 @@ However what is exactly causing this pronounced contrast between the happiness s
 </div>
 
 
-<div class="magazine-map">
-  <figure>
-    <embed 
-      type="text/html" 
-      src="/assets/images/folium_map.html"
-      width="900"
-      height="500"
-    >
 
-  </figure>
-</div>
 
 
 <div class="magazine-map">
