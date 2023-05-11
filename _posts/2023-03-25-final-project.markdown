@@ -30,17 +30,17 @@ carousels:
 
 <div class="magazine-section">
   <h2 class="magazine-section-title">Healthy Life Expectancy</h2>
-  <p class="magazine-section-text">Understanding the correlation between good health and happiness is essential. We explore the impact of healthy life expectancy on overall well-being and its significance in different regions of the world.</p>
+  <p class="magazine-section-text">.</p>
 </div>
 
 <div class="magazine-section">
   <h2 class="magazine-section-title">Freedom to Make Life Decisions</h2>
-  <p class="magazine-section-text">Examining the importance of personal freedoms and the ability to make life choices, we analyze how this factor influences happiness levels and compare its significance across various countries.</p>
+  <p class="magazine-section-text">.</p>
 </div>
 
 <div class="magazine-section">
   <h2 class="magazine-section-title">GDP per Capita</h2>
-  <p class="magazine-section-text">Unraveling the relationship between economic prosperity and happiness, we investigate the role of GDP per capita in shaping the well-being of individuals and societies.</p>
+  <p class="magazine-section-text">.</p>
 </div>
 
 <div class="magazine-section">
