@@ -9,7 +9,39 @@ carousels:
       - image: /assets/images/slide2.jpg
 ---
 
-# Whoever said money can't buy happiness simply didn't know where to shop
+
+<div class="magazine-introduction">
+  <h1 class="magazine-title">Ingredients for a Happy Life</h1>
+  <p class="magazine-intro-text">The question of happiness has never been more relevant than in the past couple of years. From the COVID-19 pandemic and the accompanying lockdown restrictions on our lives, to the loss of jobs and the war in Ukraine, we have faced numerous challenges. Additionally, the increasing fuel prices and their domino effect on the prices of basic goods and necessities have further impacted our well-being. In light of these circumstances, we have embarked on a journey to delve deeper into the elements that make us "happy". According to the World Happiness Report, these five elements can be categorized as: healthy life expectancy, freedom to make life decisions, GDP per capita, perception of corruption, and social support.</p>
+</div>
+
+## Exploring Happiness Indicators
+
+<div class="magazine-section">
+  <h2 class="magazine-section-title">Healthy Life Expectancy</h2>
+  <p class="magazine-section-text">Understanding the correlation between good health and happiness is essential. We explore the impact of healthy life expectancy on overall well-being and its significance in different regions of the world.</p>
+</div>
+
+<div class="magazine-section">
+  <h2 class="magazine-section-title">Freedom to Make Life Decisions</h2>
+  <p class="magazine-section-text">Examining the importance of personal freedoms and the ability to make life choices, we analyze how this factor influences happiness levels and compare its significance across various countries.</p>
+</div>
+
+<div class="magazine-section">
+  <h2 class="magazine-section-title">GDP per Capita</h2>
+  <p class="magazine-section-text">Unraveling the relationship between economic prosperity and happiness, we investigate the role of GDP per capita in shaping the well-being of individuals and societies.</p>
+</div>
+
+<div class="magazine-section">
+  <h2 class="magazine-section-title">Perception of Corruption</h2>
+  <p class="magazine-section-text">Delving into the impact of corruption on happiness, we explore how citizens' perception of corruption affects their overall satisfaction and analyze the efforts to combat corruption worldwide.</p>
+</div>
+
+<div class="magazine-section">
+  <h2 class="magazine-section-title">Social Support</h2>
+  <p class="magazine-section-text">Examining the significance of social connections and support networks, we investigate how strong social ties contribute to happiness and well-being, focusing on diverse communities globally.</p>
+</div>
+
 
 <div class="magazine-carousel">
   {% include carousel.html height="50" unit="%" duration="7" number="1" %}
