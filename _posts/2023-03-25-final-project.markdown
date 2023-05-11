@@ -66,7 +66,12 @@ carousels:
 </div>
 
 <div class="magazine-introduction">
-  <h1 class="magazine-title">Ingredients for a Happy Life: Exploring Happiness Indicators in Africa and Beyond</h1>
+  <h1 class="magazine-title">The pursuit of happiness</h1>
+
+  <p class="magazine-intro-text">The question of happiness has never more relevant than in the past couple of years. From the covid-19 pandemic and the accompanying lockdown restrictions on our lives and the loss of jobs, to the war in Ukraine, our subjective happiness have been questionable. Additionaly the increasing fuel prices and its domino effect on the prices of basic goods and necessity have further impacted our well-bieng. Therefore, we decided to delve deeper into the single elements that makes us “happy”, according to the World Happiness Report these five elements can be categorized as: healthy life expectancy, freedom to take life decisions, GDP per capita, healthy life expectancy, perception of corruption and social support..</p>
+
+  <p>And while these metric might help in explaining the happiness and well-being of a population, it’s also worthwhile to note that happiness is subjective and the ingredients for one nation’s well-being might not necessarily be the same for another nation as they differ in terms of culture and other socio-economic factors.</p> 
+</div>
 <div class="magazine-map">
   <figure>
     <embed 
@@ -78,10 +83,6 @@ carousels:
     >
     <figcaption style="font-size: 16px; margin-top: 5px;">Average happiness across the world from the years 2015 - 2022</figcaption>
   </figure>
-</div>
-  <p class="magazine-intro-text">The question of happiness has never more relevant than in the past couple of years. From the covid-19 pandemic and the accompanying lockdown restrictions on our lives and the loss of jobs, to the war in Ukraine, our subjective happiness have been questionable. Additionaly the increasing fuel prices and its domino effect on the prices of basic goods and necessity have further impacted our well-bieng. Therefore, we decided to delve deeper into the single elements that makes us “happy”, according to the World Happiness Report these five elements can be categorized as: healthy life expectancy, freedom to take life decisions, GDP per capita, healthy life expectancy, perception of corruption and social support..</p>
-
-  <p>And while these metric might help in explaining the happiness and well-being of a population, it’s also worthwhile to note that happiness is subjective and the ingredients for one nation’s well-being might not necessarily be the same for another nation as they differ in terms of culture and other socio-economic factors.</p>
 </div>
 <h2 class="magazine-section-title">Where does Africa rank among the rest of the world?</h2>
 
