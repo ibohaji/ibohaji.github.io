@@ -97,9 +97,10 @@ carousels:
   </figure>
 </div>
 
-
-<div class =">
-## Exploring Happiness Indicators
+<div class = "magazine-paragraph"> "
+at first glance nothing seems out of the ordinary, and as we might have suspected or expected The nordic countries are leading the way in terms of happiness score and rank, followed by north america and western europe.
+However what is exactly causing this pronounced contrast between the happiness scores of Africa, Southern Asia and the Nordic countries. What are the main factors for this contrast? Can we objectively define what contributes to happiness from subjectively derived data ? 
+</div>
 
 <div class="magazine-section">
   <h2 class="magazine-section-title">Healthy Life Expectancy</h2>
@@ -109,10 +110,9 @@ carousels:
     src="/assets/images/Average_life_expectancy_across_the_world.html"
     width="700"
     height="500"
-    style="margin-right: 5px"
   > 
 </div>
-  <p class="magazine-section-text"> place holder place holder place holder   place holder   place holder   place holder   place holder   place holder   place holder   place holder   place holder   place holder   place holder  </p>
+  <p class="magazine-section-text">The average life expectancy between among the regions seems to almost follow the same trend for the happiness scores presented previously, as we’ve expected previously and will explore more in depth in the next figure to see if we can find a correlation between the healthy life expectancy and the happiness score.  </p>
 </div>
 
 <div class="magazine-map">
@@ -122,7 +122,6 @@ carousels:
       src="/assets/images/scatterLifeExpectency.html"
       width="900"
       height="500"
-      style="margin-right: 5px"
     >
      <div class="photo-caption">Average happiness across the world from the years 2015 - 2022</div>
   </figure>
