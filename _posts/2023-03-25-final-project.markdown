@@ -67,7 +67,7 @@ map-container {
 
   <p>And while these metric might help in explaining the happiness and well-being of a population, it’s also worthwhile to note that happiness is subjective and the ingredients for one nation’s well-being might not necessarily be the same for another nation as they differ in terms of culture and other socio-economic factors.</p> 
 </div>
-
+<p> For a more in-depth analysis you can checkout this <a href= "https://github.com/Sanaullah-nahk/SocialData__Analysis_n_Visualization/blob/main/assignments/Final%20notebook_repo/final_notebook.ipynb"> notebook </a></p>
 <div class="magazine-map">
   <figure>
     <embed 
@@ -202,7 +202,7 @@ However what is exactly causing this pronounced contrast between the happiness s
 
 <div class = "magazine-section">
 <h2 class = "magazine-section_title"> Who are the top gainers in happiness ? </h2>
-<p class = "magazine-section-text"> If we could leave the reader with one thing, it'll rather be this positive insight. As "Unhappy" the previous analysis have shown africa to be in all terms of all the 5 metrics used to describe happiness, supringsly enough all the top 5 gainers in happiness are African nations as displayed by the below plot. 
+<p class = "magazine-section-text"> If we could leave the reader with one thing, it'll rather be this positive insight. As "Unhappy" the previous analysis have shown africa to be in all terms of all the 5 metrics used to describe happiness, supringsly enough all the top 5 gainers in happiness are African nations as displayed by the below plot. </p> 
 
   <figure>
     <embed 
@@ -213,7 +213,7 @@ However what is exactly causing this pronounced contrast between the happiness s
       style="margin-left: -80px"
     >
      <div class="photo-caption">Top gainers from the years 2015 to 2021</div>
-
+<p>
 As the leaders of the nations become more aware of the happiness report and embed them as a key indicator of societal progress and well-bieng, they can take informed initiative to further deploy policies and programs that contribute the overall happiness and wellbieng of it's citizens.</p>  
 </div>
 
