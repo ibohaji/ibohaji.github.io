@@ -51,7 +51,6 @@ map-container {
 }
 </style>
 
-
 </style>
 
 <div class="magazine-title-picture">
@@ -94,9 +93,6 @@ map-container {
   </figure>
 </div>
 
-
-
-
 <div class = "magazine-paragraph"> 
 At first glance nothing seems out of the ordinary, and as we might have suspected or expected, the nordic countries are leading the way in terms of happiness score and rank, followed by north america and western europe.
 However what is exactly causing this pronounced contrast between the happiness scores of Africa, Southern Asia and the Nordic countries. What are the main factors for this contrast? Can we objectively define what contributes to happiness from subjectively derived data ?  
@@ -127,17 +123,14 @@ However what is exactly causing this pronounced contrast between the happiness s
   </figure>
 </div>
 
-
-
-
-
 <div class="magazine-map">
   <figure>
     <embed 
       type="text/html" 
-      src="/assets/images/scatterLifeExpectency.html"
+      src="/assets/images/happiness score over health.html"
       width="900"
       height="500"
+      style="margin-left: -80px"
     >
      <div class="photo-caption">REPLACE THIS VISUALISATION WITH AFRICA PLOT. When we narrow down to countries in Africa, it can be seen that the correlation between life expectancy and happiness is much lower. This correlation remains higher for countries outside of Africa. This could be a possible explanation that life expectancy is not as determining of a factor for Happiness Score for countries in Africa as compared to those outside of Africa.</div>
   </figure>
@@ -145,6 +138,16 @@ However what is exactly causing this pronounced contrast between the happiness s
 
 <div class="magazine-section">
   <h2 class="magazine-section-title">Freedom to Make Life Decisions</h2>
+  <figure>
+    <embed 
+      type="text/html" 
+      src="/assets/images/happiness score over freedom.html"
+      width="900"
+      height="500"
+      style="margin-left: -80px"
+    >
+     <div class="photo-caption">REPLACE THIS VISUALISATION WITH AFRICA PLOT.</div>
+  </figure>
   <p class="magazine-section-text">.</p>
 </div>
 
@@ -168,15 +171,31 @@ However what is exactly causing this pronounced contrast between the happiness s
 <div class="magazine-section">
   <h2 class="magazine-section-title">Perception of Corruption</h2>
   <p class="magazine-section-text">Delving into the impact of corruption on happiness, we explore how citizens' perception of corruption affects their overall satisfaction and analyze the efforts to combat corruption worldwide.</p>
+  <figure>
+    <embed 
+      type="text/html" 
+      src="/assets/images/happiness score over trust.html"
+      width="900"
+      height="500"
+      style="margin-left: -80px"
+    >
+     <div class="photo-caption">REPLACE THIS VISUALISATION WITH AFRICA PLOT.</div>
+  </figure>
 </div>
 
 <div class="magazine-section">
   <h2 class="magazine-section-title">Social Support</h2>
+  <figure>
+    <embed 
+      type="text/html" 
+      src="/assets/images/happiness score over family.html"
+      width="900"
+      height="500"
+      style="margin-left: -80px"
+    >
+     <div class="photo-caption">REPLACE THIS VISUALISATION WITH AFRICA PLOT.</div>
+  </figure>
   <p class="magazine-section-text">Examining the significance of social connections and support networks, we investigate how strong social ties contribute to happiness and well-being, focusing on diverse communities globally. Similar to Life expectancy, Happiness is more highly correlated with Social support for countries outside of Africa than countries in Africa. </p>
-</div>
-
-<div class="magazine-carousel">
-  {% include carousel.html height="50" unit="%" duration="7" number="1" %}
 </div>
 
 <div class="magazine-section">
