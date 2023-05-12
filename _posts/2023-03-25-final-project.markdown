@@ -106,7 +106,9 @@ However what is exactly causing this pronounced contrast between the happiness s
     height="500"
   > 
 </div>
-  <p class="magazine-section-text">The average life expectancy between among the regions seems to almost follow the same trend for the happiness scores presented previously, as we’ve expected previously and will explore more in depth in the next figure to see if we can find a correlation between the healthy life expectancy and the happiness score.  </p>
+  <p class="magazine-section-text">The average life expectancy among the regions seems to favour the countries that scored high on happiness over their less happy counterparts. A healthier and longer life means better access to health-care systems, affordability of medicine and disease prevention not to mention clean access to water and sanitation which are all part of the <a href = "https://sdgs.un.org/goals"> sustainable development goals.</a> 
+  we will further more investigate the relationship between healthy life expectency and and the other variables, in the interactive graph below we can observe the linear relationship between the happiness and healthy life expectency, we can see a trend that the the least happy countries seem to have a lower expectancy.
+  </p>
 </div>
 
 <div class="magazine-map">
@@ -117,7 +119,8 @@ However what is exactly causing this pronounced contrast between the happiness s
       width="900"
       height="500"
     >
-     <div class="photo-caption">From 2015 to 2022, we can see a general trend that the higher the life expectancy, the higher the happiness score. This trend is unsurprising as one would expect one to be more happy with better health.</div>
+     <div class="photo-caption">From 2015 to 2026, we can see a general trend that the higher the life expectancy, the higher the happiness score. This trend is unsurprising as one would expect one to be more happy with better health. We encourage you take a look at the data, select the countries your most curious about and investigate their relationship.
+     </div>
   </figure>
 </div>
 
