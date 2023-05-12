@@ -220,8 +220,8 @@ However what is exactly causing this pronounced contrast between the happiness s
     <embed 
       type="text/html" 
       src="/assets/images/Fig.html"
-      width="700"
-      height="500"
+      width="800"
+      height="600"
     ></figure>
     </div><p class = "magazine-section-text"> If we could leave the reader with one thing, it'll rather be this positive insight. As "Unhappy" the previous analysis have shown africa to be in all terms of all the 5 metrics used to describe happiness, supringsly enough all the top 5 gainers in happiness are African nations as displayed by the below plot. </p> 
 
@@ -230,8 +230,8 @@ However what is exactly causing this pronounced contrast between the happiness s
     <embed 
       type="text/html" 
       src="/assets/images/Top_Gainers.html"
-      width="700"
-      height="500"
+      width="800"
+      height="600"
     ></figure>
     </div>
     <p class="magazine-section-text">
