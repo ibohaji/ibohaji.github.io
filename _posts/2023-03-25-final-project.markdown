@@ -128,9 +128,10 @@ However what is exactly causing this pronounced contrast between the happiness s
       width="900"
       height="500"
     >
-     <div class="photo-caption">From 2015 to 2026, we can see a general trend that the higher the life expectancy, the higher the happiness score. This trend is unsurprising as one would expect one to be more happy with better health. We encourage you take a look at the data, select the countries your most curious about and investigate their relationship.
+     <div class="photo-caption">
      </div>
   </figure>
+  <p class ="magazine-section-text">From 2015 to 2026, we can see a general trend that the higher the life expectancy, the higher the happiness score. This trend is unsurprising as one would expect one to be more happy with better health. We encourage you take a look at the data, select the countries your most curious about and investigate their relationship.</p>
 </div>
 
 <div class="magazine-map">
@@ -142,8 +143,9 @@ However what is exactly causing this pronounced contrast between the happiness s
       height="500"
       style="margin-left: -80px"
     >
-     <div class="photo-caption">When we narrow down to countries in Africa, it can be seen that the correlation between life expectancy and happiness is much lower. This correlation remains higher for countries outside of Africa. This could be a possible explanation that life expectancy is not as determining of a factor for Happiness Score for countries in Africa as compared to those outside of Africa.</div>
+     <div class="photo-caption"></div>
   </figure>
+  <p class ="magazine-section-text">When we narrow down to countries in Africa, it can be seen that the correlation between life expectancy and happiness is much lower. This correlation remains higher for countries outside of Africa. This could be a possible explanation that life expectancy is not as determining of a factor for Happiness Score for countries in Africa as compared to those outside of Africa.</p>
 </div>
 
 <div class="magazine-section">
@@ -156,9 +158,10 @@ However what is exactly causing this pronounced contrast between the happiness s
       height="500"
       style="margin-left: -80px"
     >
-     <div class="photo-caption">Taking a look at how Freedom to make life decisions is correlated with Happiness Score, we can see that there is a significant difference between countries in and outside of Africa. The regression line for countries outside of Africca is significantly steeper than the ones in Africa. </div>
+     <div class="photo-caption"> </div>
   </figure>
-  <p class="magazine-section-text">.</p>
+
+  <p class="magazine-section-text">Taking a look at how Freedom to make life decisions is correlated with Happiness Score, we can see that there is a significant difference between countries in and outside of Africa. The regression line for countries outside of Africca is significantly steeper than the ones in Africa.</p>
 </div>
 
 <div class="magazine-section">
@@ -189,8 +192,9 @@ However what is exactly causing this pronounced contrast between the happiness s
       height="500"
       style="margin-left: -80px"
     >
-     <div class="photo-caption">An interesting observation is that there is a downwards trend for happiness score over trust for countries in Africa. Could this be an indicator that countries in Africa do not value Trust (Government Corruption) as highly as countries outside of Africa as a determination for happiness?</div>
   </figure>
+  <p class="magazine-section-text">An interesting observation is that there is a downwards trend for happiness score over trust for countries in Africa. Could this be an indicator that countries in Africa do not value Trust (Government Corruption) as highly as countries outside of Africa as a determination for happiness?</p>
+
 </div>
 
 <div class="magazine-section">
