@@ -51,8 +51,6 @@ map-container {
 }
 </style>
 
-</style>
-
 <div class="magazine-title-picture">
   <img src="https://i.pinimg.com/564x/60/4a/41/604a41714c75b02b3c90a6ad8c267fd8.jpg" alt="Title Picture">
   <div class="photo-caption">
@@ -132,7 +130,7 @@ However what is exactly causing this pronounced contrast between the happiness s
       height="500"
       style="margin-left: -80px"
     >
-     <div class="photo-caption">REPLACE THIS VISUALISATION WITH AFRICA PLOT. When we narrow down to countries in Africa, it can be seen that the correlation between life expectancy and happiness is much lower. This correlation remains higher for countries outside of Africa. This could be a possible explanation that life expectancy is not as determining of a factor for Happiness Score for countries in Africa as compared to those outside of Africa.</div>
+     <div class="photo-caption">When we narrow down to countries in Africa, it can be seen that the correlation between life expectancy and happiness is much lower. This correlation remains higher for countries outside of Africa. This could be a possible explanation that life expectancy is not as determining of a factor for Happiness Score for countries in Africa as compared to those outside of Africa.</div>
   </figure>
 </div>
 
@@ -146,7 +144,7 @@ However what is exactly causing this pronounced contrast between the happiness s
       height="500"
       style="margin-left: -80px"
     >
-     <div class="photo-caption">REPLACE THIS VISUALISATION WITH AFRICA PLOT.</div>
+     <div class="photo-caption">Taking a look at how Freedom to make life decisions is correlated with Happiness Score, we can see that there is a significant difference between countries in and outside of Africa. The regression line for countries outside of Africca is significantly steeper than the ones in Africa. </div>
   </figure>
   <p class="magazine-section-text">.</p>
 </div>
@@ -162,7 +160,7 @@ However what is exactly causing this pronounced contrast between the happiness s
       height="500"
       style="margin-right: 5px"
     >
-     <div class="photo-caption"></div>
+     <div class="photo-caption">From 2015 to 2029, we can see a general trend that the higher the GDP, the higher the happiness score.</div>
   </figure>
 </div>
   <p class="magazine-section-text">.</p>
@@ -179,7 +177,7 @@ However what is exactly causing this pronounced contrast between the happiness s
       height="500"
       style="margin-left: -80px"
     >
-     <div class="photo-caption">REPLACE THIS VISUALISATION WITH AFRICA PLOT.</div>
+     <div class="photo-caption">An interesting observation is that there is a downwards trend for happiness score over trust for countries in Africa. Could this be an indicator that countries in Africa do not value Trust (Government Corruption) as highly as countries outside of Africa as a determination for happiness?</div>
   </figure>
 </div>
 
@@ -193,7 +191,7 @@ However what is exactly causing this pronounced contrast between the happiness s
       height="500"
       style="margin-left: -80px"
     >
-     <div class="photo-caption">REPLACE THIS VISUALISATION WITH AFRICA PLOT.</div>
+     <div class="photo-caption"></div>
   </figure>
   <p class="magazine-section-text">Examining the significance of social connections and support networks, we investigate how strong social ties contribute to happiness and well-being, focusing on diverse communities globally. Similar to Life expectancy, Happiness is more highly correlated with Social support for countries outside of Africa than countries in Africa. </p>
 </div>
@@ -203,5 +201,3 @@ However what is exactly causing this pronounced contrast between the happiness s
   <p class="magazine-section-text">After observing the Happiness score over 5 elements for countries in and outside of Africa, there is a significant difference in what determines Happiness score for different parts of the world. Happiness is highly correlated with elements such as "Social Support", "Healthy life expectancy" and "GDP per capita" for countries outside of Africa. On the other hand, happiness for Countries in Africa are not highly correlated with most of these elements. The way one views Happiness is shaped by their cultural and social upbringing. Some other elements that we can explore to find out what determines happiness for countries in Africa are education and religion.
  </p>
 </div>
-
-## Conclusion
