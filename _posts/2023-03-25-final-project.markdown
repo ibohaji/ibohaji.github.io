@@ -208,8 +208,8 @@ However what is exactly causing this pronounced contrast between the happiness s
     <embed 
       type="text/html" 
       src="/assets/images/Top_Gainers.html"
-      width="900"
-      height="500"
+      width="800"
+      height="400"
       style="margin-left: -80px"
     >
      <div class="photo-caption">Top gainers from the years 2015 to 2021</div>
