@@ -74,6 +74,7 @@ map-container {
       type="text/html" 
       src="/assets/images/folium_map.html"
       width="900"
+      height= 500
     >
   </figure>
 </div>
@@ -166,7 +167,7 @@ However what is exactly causing this pronounced contrast between the happiness s
      <div class="photo-caption">From 2015 to 2029, we can see a general trend that the higher the GDP, the higher the happiness score.</div>
   </figure>
 </div>
-  <p class="magazine-section-text">.</p>
+  <p class="magazine-section-text">The GDP as well is one of the highest indicator of a nations happiness and it's citezens well-bieng, while this statement might but 100% accurate in an ideal world with an equaly distributed GD but however, the GDP is not metric for it's citizens well-bieng as it does not account for how the GDP is distributed nor the inequality rate. </p>
 </div>
 
 <div class="magazine-section">
