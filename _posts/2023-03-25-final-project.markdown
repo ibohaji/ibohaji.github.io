@@ -212,14 +212,16 @@ However what is exactly causing this pronounced contrast between the happiness s
 <h2 class = "magazine-section_title"> Who are the top gainers in happiness ? </h2>
 <p class = "magazine-section-text"> If we could leave the reader with one thing, it'll rather be this positive insight. As "Unhappy" the previous analysis have shown africa to be in all terms of all the 5 metrics used to describe happiness, supringsly enough all the top 5 gainers in happiness are African nations as displayed by the below plot. </p> 
 
-  <figure>
+<div class="magazine-figure">
+  <figure class ="magazine-figure">
     <embed 
-      type="text/html" 
-      src="/assets/images/Top_Gainers.html"
-      style="margin-left: -80px"
+      type="Top_Gainers.html" 
+      src="/assets/images/Average_happiness_2015_to_2022_comparison.html"
+      width="700"
+      height="500"
     >
-     <div class="photo-caption">Top gainers from the years 2015 to 2021</div>
-<p>
+    </div>
+    <p class="magazine-section-text">
 As the leaders of the nations become more aware of the happiness report and embed them as a key indicator of societal progress and well-bieng, they can take informed initiative to further deploy policies and programs that contribute the overall happiness and wellbieng of it's citizens.</p>  
 
 
