@@ -200,6 +200,24 @@ However what is exactly causing this pronounced contrast between the happiness s
   <p class="magazine-section-text">Examining the significance of social connections and support networks, we investigate how strong social ties contribute to happiness and well-being, focusing on diverse communities globally. Similar to Life expectancy, Happiness is more highly correlated with Social support for countries outside of Africa than countries in Africa. </p>
 </div>
 
+<div class = "magazine-section">
+<h2 class = "magazine-section_title"> Who are the top gainers in happiness ? </h2>
+<p class = "magazine-section-text"> If we could leave the reader with one thing, it'll rather be this positive insight. As "Unhappy" the previous analysis have shown africa to be in all terms of all the 5 metrics used to describe happiness, supringsly enough all the top 5 gainers in happiness are African nations as displayed by the below plot. 
+
+  <figure>
+    <embed 
+      type="text/html" 
+      src="/assets/images/Top_Gainers.html"
+      width="900"
+      height="500"
+      style="margin-left: -80px"
+    >
+     <div class="photo-caption">Top gainers from the years 2015 to 2021</div>
+
+As the leaders of the nations become more aware of the happiness report and embed them as a key indicator of societal progress and well-bieng, they can take informed initiative to further deploy policies and programs that contribute the overall happiness and wellbieng of it's citizens.</p>  
+</div>
+
+
 <div class="magazine-section">
   <h2 class="magazine-section-title">Conclusion</h2>
   <p class="magazine-section-text">After observing the Happiness score over 5 elements for countries in and outside of Africa, there is a significant difference in what determines Happiness score for different parts of the world. Happiness is highly correlated with elements such as "Social Support", "Healthy life expectancy" and "GDP per capita" for countries outside of Africa. On the other hand, happiness for Countries in Africa are not highly correlated with most of these elements. The way one views Happiness is shaped by their cultural and social upbringing. Some other elements that we can explore to find out what determines happiness for countries in Africa are education and religion.
