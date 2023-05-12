@@ -22,7 +22,7 @@ carousels:
     text-align: justify;
     text-justify: inter-word;
   }
-  
+
 .magazine-section-text {
   font-size: 20px;
   line-height: 1.5;
@@ -216,14 +216,11 @@ However what is exactly causing this pronounced contrast between the happiness s
     <embed 
       type="text/html" 
       src="/assets/images/Top_Gainers.html"
-      width="800"
-      height="400"
       style="margin-left: -80px"
     >
      <div class="photo-caption">Top gainers from the years 2015 to 2021</div>
 <p>
 As the leaders of the nations become more aware of the happiness report and embed them as a key indicator of societal progress and well-bieng, they can take informed initiative to further deploy policies and programs that contribute the overall happiness and wellbieng of it's citizens.</p>  
-</div>
 
 
 <div class="magazine-section">
