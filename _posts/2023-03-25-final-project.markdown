@@ -22,7 +22,15 @@ carousels:
     text-align: justify;
     text-justify: inter-word;
   }
-
+  
+.magazine-section-text {
+  font-size: 20px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+  text-align: justify;
+  text-justify: inter-word;
+  color: #333333;
+}
 
   .magazine-title {
     font-size: 36px;
