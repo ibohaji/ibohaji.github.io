@@ -66,6 +66,16 @@ carousels:
   line-height: 1.5em;
   font-weight: 100;
 }
+.sidekick:before, .sidekick:after {
+  font-family: Calibri;
+    color: #039be5;
+    font-size: 34px;
+}
+.sidekick:before {content: '\201e'}
+.sidekick:after {content: '\201c';}
+.sidekick cite {font-size: 50%; text-align:center; top:50%}
+.sidekick cite:before {content: ' \2015 '}
+
 </style>
 
 <div class="magazine-title-picture">
