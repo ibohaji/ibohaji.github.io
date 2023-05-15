@@ -57,51 +57,21 @@ carousels:
   width: 100%;
   height: 400px;
 }
-.sidekick {
-  position: relative;
-  padding-left: 1em;
-  border-left: 0.2em solid #039be5;
-  font-family: 'Roboto', serif;
-  font-size: 2.4em;
-  line-height: 1.5em;
-  font-weight: 100;
-}
-.sidekick:before, .sidekick:after {
-  font-family: Calibri;
-    color: #039be5;
-    font-size: 34px;
-}
-.zitat1 {
-  position: relative;
-  font-family: 'Verdana', serif;
-  font-size: 2.4em;
-  line-height: 1.5em;
-}
-.zitat1 cite {
-  font-family: 'Verdana', sans-serif;
-  font-size: 0.6em;
-  font-weight: 700;
-  color: #bdbec0;
-  float: right;
-}
-.zitat1 cite:before {
-  content: '\2015'' ';
-}
-.zitat1:after {
-  content: '\201d';
-  position: absolute;
-  top: 0.28em;
-  right: 0px;
-  font-size: 6em;
-  font-style: italic;
-  color: #bdbec0;
-  z-index: -1;
-}
-.sidekick:before {content: '\201e'}
-.sidekick:after {content: '\201c';}
-.sidekick cite {font-size: 50%; text-align:center; top:50%}
-.sidekick cite:before {content: ' \2015 '}
 
+body {
+  margin: 1em;
+  font: 1.2rem/1.4 Georgia, serif;
+}
+.quote {
+  margin: 0;
+  background: #eee;
+  padding: 1em;
+  border-radius: 1em;
+}
+.quote figcaption,
+.quote blockquote {
+  margin: 1em;
+}
 </style>
 
 <div class="magazine-title-picture">
@@ -114,6 +84,15 @@ carousels:
 <div class="magazine-introduction">
   <h1 class="magazine-title">The pursuit of happiness</h1>
 <p> For a more in-depth analysis you can checkout this <a href= "https://github.com/Sanaullah-nahk/SocialData__Analysis_n_Visualization/blob/main/assignments/Final%20notebook_repo/final_notebook.ipynb"> notebook </a></p>
+
+<figure class = "quote">
+  <blockquote>
+  No man is an <strong>island</strong>, entire of itself; every man is a piece of the continent, a part of the main
+  </blockquote>
+  <figcaption>
+      &mdash; John Donne, <cite>Devotions upon Emergent Occasions</cite> 
+       </figcaption>
+          </figure>
   <p class="magazine-intro-text">The question of happiness has never more relevant than in the past couple of years. From the covid-19 pandemic and the accompanying lockdown restrictions on our lives and the loss of jobs, to the war in Ukraine, our subjective happiness have been questionable. Additionaly the increasing fuel prices and its domino effect on the prices of basic goods and necessity have further impacted our well-bieng.</p> 
   
   <p> Therefore, we decided to delve deeper into the single elements that makes us “happy”, according to the <a href = "https://worldhappiness.report/"> World Happiness Report </a> these five elements can be categorized as: healthy life expectancy, freedom to take life decisions, GDP per capita, healthy life expectancy, perception of corruption and social support.</p>
@@ -164,10 +143,6 @@ However what is exactly causing this pronounced contrast between the happiness s
   we will further more investigate the relationship between healthy life expectency and and the other variables, in the interactive graph below we can observe the linear relationship between the happiness and healthy life expectency, we can see a trend that the the least happy countries seem to have a lower expectancy.
   </p>
 </div>
-
- <blockquote class="sidekick">
-     The only thing permanent in life is impermanence. <cite> Thor in Endgame</cite>
-  </blockquote>
 
 <div class="magazine-map">
   <figure>
