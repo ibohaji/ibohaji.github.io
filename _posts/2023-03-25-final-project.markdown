@@ -60,8 +60,8 @@ carousels:
 
 body {
   margin: 1em;
-  font: 1.2rem/1.4 Georgia, serif;
 }
+
 .quote {
   margin: 0;
   background: #eee;
@@ -93,6 +93,8 @@ body {
       &mdash; John Donne, <cite>Devotions upon Emergent Occasions</cite> 
        </figcaption>
           </figure>
+
+
   <p class="magazine-intro-text">The question of happiness has never more relevant than in the past couple of years. From the covid-19 pandemic and the accompanying lockdown restrictions on our lives and the loss of jobs, to the war in Ukraine, our subjective happiness have been questionable. Additionaly the increasing fuel prices and its domino effect on the prices of basic goods and necessity have further impacted our well-bieng.</p> 
   
   <p> Therefore, we decided to delve deeper into the single elements that makes us “happy”, according to the <a href = "https://worldhappiness.report/"> World Happiness Report </a> these five elements can be categorized as: healthy life expectancy, freedom to take life decisions, GDP per capita, healthy life expectancy, perception of corruption and social support.</p>
