@@ -264,6 +264,6 @@ As the leaders of the nations become more aware of the happiness report and embe
 
 <div class="magazine-section">
   <h2 class="magazine-section-title">Conclusion</h2>
-  <p class="magazine-section-text">After observing the Happiness score over 5 elements for countries in and outside of Africa, there is a significant difference in what determines Happiness score for different parts of the world. Happiness is highly correlated with elements such as "Social Support", "Healthy life expectancy" and "GDP per capita" for countries outside of Africa. On the other hand, happiness for Countries in Africa are not highly correlated with most of these elements. The way one views Happiness is shaped by their cultural and social upbringing. Some other elements that we can explore to find out what determines happiness for countries in Africa are education and religion.
+  <p class="magazine-section-text">After observing the Happiness score over 5 elements for countries in and outside of Africa, there is a significant difference in what determines Happiness score for different parts of the world. Happiness is highly correlated with elements such as "Social Support", "Healthy life expectancy" and "GDP per capita" for countries outside of Africa. On the other hand, happiness for Countries in Africa are not highly correlated with most of these elements. The way every individual views their Happiness is shaped by their cultural and social upbringing, however happiness is an intrinsic state of mind where every individual is unique.
  </p>
 </div>
