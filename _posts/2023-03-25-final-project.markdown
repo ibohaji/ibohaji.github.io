@@ -71,6 +71,32 @@ carousels:
     color: #039be5;
     font-size: 34px;
 }
+.zitat1 {
+  position: relative;
+  font-family: 'Verdana', serif;
+  font-size: 2.4em;
+  line-height: 1.5em;
+}
+.zitat1 cite {
+  font-family: 'Verdana', sans-serif;
+  font-size: 0.6em;
+  font-weight: 700;
+  color: #bdbec0;
+  float: right;
+}
+.zitat1 cite:before {
+  content: '\2015'' ';
+}
+.zitat1:after {
+  content: '\201d';
+  position: absolute;
+  top: 0.28em;
+  right: 0px;
+  font-size: 6em;
+  font-style: italic;
+  color: #bdbec0;
+  z-index: -1;
+}
 .sidekick:before {content: '\201e'}
 .sidekick:after {content: '\201c';}
 .sidekick cite {font-size: 50%; text-align:center; top:50%}
