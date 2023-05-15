@@ -53,9 +53,18 @@ carousels:
   text-align: center;
   overflow: hidden;
 }
-map-container {
+.map-container {
   width: 100%;
   height: 400px;
+}
+.sidekick {
+  position: relative;
+  padding-left: 1em;
+  border-left: 0.2em solid #039be5;
+  font-family: 'Roboto', serif;
+  font-size: 2.4em;
+  line-height: 1.5em;
+  font-weight: 100;
 }
 </style>
 
@@ -68,14 +77,14 @@ map-container {
 
 <div class="magazine-introduction">
   <h1 class="magazine-title">The pursuit of happiness</h1>
-
+<p> For a more in-depth analysis you can checkout this <a href= "https://github.com/Sanaullah-nahk/SocialData__Analysis_n_Visualization/blob/main/assignments/Final%20notebook_repo/final_notebook.ipynb"> notebook </a></p>
   <p class="magazine-intro-text">The question of happiness has never more relevant than in the past couple of years. From the covid-19 pandemic and the accompanying lockdown restrictions on our lives and the loss of jobs, to the war in Ukraine, our subjective happiness have been questionable. Additionaly the increasing fuel prices and its domino effect on the prices of basic goods and necessity have further impacted our well-bieng.</p> 
   
   <p> Therefore, we decided to delve deeper into the single elements that makes us “happy”, according to the <a href = "https://worldhappiness.report/"> World Happiness Report </a> these five elements can be categorized as: healthy life expectancy, freedom to take life decisions, GDP per capita, healthy life expectancy, perception of corruption and social support.</p>
 
   <p>And while these metric might help in explaining the happiness and well-being of a population, it’s also worthwhile to note that happiness is subjective and the ingredients for one nation’s well-being might not necessarily be the same for another nation as they differ in terms of culture and other socio-economic factors.</p> 
 </div>
-<p> For a more in-depth analysis you can checkout this <a href= "https://github.com/Sanaullah-nahk/SocialData__Analysis_n_Visualization/blob/main/assignments/Final%20notebook_repo/final_notebook.ipynb"> notebook </a></p>
+
 <div class="map-container">
   <figure>
     <embed 
@@ -119,6 +128,10 @@ However what is exactly causing this pronounced contrast between the happiness s
   we will further more investigate the relationship between healthy life expectency and and the other variables, in the interactive graph below we can observe the linear relationship between the happiness and healthy life expectency, we can see a trend that the the least happy countries seem to have a lower expectancy.
   </p>
 </div>
+
+ <blockquote class="sidekick">
+     The only thing permanent in life is impermanence. <cite> Thor in Endgame</cite>
+  </blockquote>
 
 <div class="magazine-map">
   <figure>
