@@ -53,25 +53,28 @@ carousels:
   text-align: center;
   overflow: hidden;
 }
-.map-container {
+map-container {
   width: 100%;
   height: 400px;
 }
-
-body {
-  margin: 1em;
+blockquote::before {
+  content: open-quote;
+}
+blockquote::after {
+  content: close-quote;
+}
+blockquote {
+  quotes: "“" "”" "‘" "’";
 }
 
 .quote {
-  margin: 0;
-  background: #eee;
-  padding: 1em;
-  border-radius: 1em;
-}
-.quote figcaption,
-.quote blockquote {
+  max-width: 20em;
   margin: 1em;
+  font: 1.8rem/1.4 Georgia, serif;
 }
+
+
+
 </style>
 
 <div class="magazine-title-picture">
@@ -83,17 +86,6 @@ body {
 
 <div class="magazine-introduction">
   <h1 class="magazine-title">The pursuit of happiness</h1>
-<p> For a more in-depth analysis you can checkout this <a href= "https://github.com/Sanaullah-nahk/SocialData__Analysis_n_Visualization/blob/main/assignments/Final%20notebook_repo/final_notebook.ipynb"> notebook </a></p>
-
-<figure class = "quote">
-  <blockquote>
-  No man is an <strong>island</strong>, entire of itself; every man is a piece of the continent, a part of the main
-  </blockquote>
-  <figcaption>
-      &mdash; John Donne, <cite>Devotions upon Emergent Occasions</cite> 
-       </figcaption>
-          </figure>
-
 
   <p class="magazine-intro-text">The question of happiness has never more relevant than in the past couple of years. From the covid-19 pandemic and the accompanying lockdown restrictions on our lives and the loss of jobs, to the war in Ukraine, our subjective happiness have been questionable. Additionaly the increasing fuel prices and its domino effect on the prices of basic goods and necessity have further impacted our well-bieng.</p> 
   
@@ -101,8 +93,8 @@ body {
 
   <p>And while these metric might help in explaining the happiness and well-being of a population, it’s also worthwhile to note that happiness is subjective and the ingredients for one nation’s well-being might not necessarily be the same for another nation as they differ in terms of culture and other socio-economic factors.</p> 
 </div>
-
-<div class="map-container">
+<p> For a more in-depth analysis you can checkout this <a href= "https://github.com/Sanaullah-nahk/SocialData__Analysis_n_Visualization/blob/main/assignments/Final%20notebook_repo/final_notebook.ipynb"> notebook </a></p>
+<div class="map-conteiner">
   <figure>
     <embed 
       type="text/html" 
@@ -220,6 +212,8 @@ However what is exactly causing this pronounced contrast between the happiness s
     >
   </figure>
   <p class="magazine-section-text">An interesting observation is that there is a downwards trend for happiness score over trust for countries in Africa. Could this be an indicator that countries in Africa do not value Trust (Government Corruption) as highly as countries outside of Africa as a determination for happiness?</p>
+
+
 
 </div>
 
